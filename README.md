@@ -22,10 +22,11 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 ### Inspelade föreläsningar
 
+* [19 jan]()
 
 ### Lektionsrepon
 
-* [19 jan]()
+* [19 jan](https://github.com/fe-javascript-fe25/week-4-lecture-19-jan)
 * [21 jan]()
 
 ### Filmer
@@ -37,5 +38,6 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 ### Övningar
 
-* [DOM Bootcamp]()
-* [Tic Tac Toe]() - veckans CodeReview-uppgift
+* [DOM Bootcamp](https://github.com/fe-javascript-fe25/week-4-exercise-dom-bootcamp)
+* [Tic Tac Toe](https://github.com/fe-javascript-fe25/exercise-code-review-tic-tac-toe) - veckans CodeReview-uppgift!
+* [Produktsidan](https://github.com/fu-javascript-fe24/week-4-exercise-product-page) - Frivillig bonusuppgift!
