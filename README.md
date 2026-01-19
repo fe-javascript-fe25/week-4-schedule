@@ -22,7 +22,8 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 ### Inspelade föreläsningar
 
-* [19 jan]()
+* [DOM-manipulation, 19 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDDCdDQbqUWT5GrHsdMXLUBAbAcIoswiaC3lWyx99U_v7c?e=drgVVQ)
+* [Genomgång DOM-övningar, 19 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCZVv7yvxfIRqCnZ90J4K5VAfZLlPh7NX5KS5XVE0UZKLs?e=7W6M08)
 
 ### Lektionsrepon
 
