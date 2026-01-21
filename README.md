@@ -28,7 +28,7 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 ### Lektionsrepon
 
 * [19 jan](https://github.com/fe-javascript-fe25/week-4-lecture-19-jan)
-* [21 jan]()
+* [21 jan](https://github.com/fe-javascript-fe25/week-4-lecture-21-jan)
 
 ### Filmer
 
