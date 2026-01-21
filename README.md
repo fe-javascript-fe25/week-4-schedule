@@ -24,6 +24,7 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 * [DOM-manipulation, 19 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDDCdDQbqUWT5GrHsdMXLUBAbAcIoswiaC3lWyx99U_v7c?e=drgVVQ)
 * [Genomgång DOM-övningar, 19 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCZVv7yvxfIRqCnZ90J4K5VAfZLlPh7NX5KS5XVE0UZKLs?e=7W6M08)
+* [Code Along, MyPokeDB, 21 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDPjfp8ebbYQKBq6hdqUPrXAUR0Z6rYWPEotBN6cCs4z8k?e=y5VPcc)
 
 ### Lektionsrepon
 
@@ -31,7 +32,6 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 * [21 jan](https://github.com/fe-javascript-fe25/week-4-lecture-21-jan)
 
 ### Filmer
-
   
 ### Länkar
 
